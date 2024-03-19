@@ -3,7 +3,7 @@ This is a summary of the behavioral questions I've summarized. All real question
 
 
 **1.Introduction**
-- Please introduce yourself and your professional experience (2-3 mins answer reconmmended)
+- Please introduce yourself and your professional experience (2-3 mins answer recommended)
 - What inspired you to pursue a career in software engineering?
 - What attracted you to apply for this position at our company?
 
