@@ -2,14 +2,14 @@
 This is a summary of the behavioral questions I've summarized. All real questions you might find in an interview. I would recommend to find the standard answer on youtube or google. There are a lot of excellent videos about how to think about these questions. Please star if you find it helpful. 
 
 
-##1.Introduction##
+**1.Introduction**
 - Please introduce yourself and your professional experience (2-3 mins answer reconmmended)
 
-2. Goal
+**2. Goal**
 - What are you looking for in your next role?
 - Where do you see yourself in 5 years?
 
-3. Tell me about
+**3. Tell me about**
 - A success that you are proud of, why was it a success for you?
 - A project you are most passionate about / one that you felt exhibited your best work
 - A difficult problem you solved. How was the problem diagnosed and how did you solve it?
@@ -24,16 +24,16 @@ This is a summary of the behavioral questions I've summarized. All real question
 - A time when you had to make an unpopular decision
 - A story about what you should have done differently in a past project?
  
-4. General questions
+**4. General questions**
 - How do you stay up to date with the latest technologies?
 - Teach me something you've recently learned
 - Apart from professional knowledge, what did you learn in your last role?
 - Why would you be a good team member?
  
-5. Scenario 
+**5. Scenario**
 - Your manager gives you an assignment, you said an estimate. Later you realized it will take three times more than the estimate. What would you do?
  
-6. Self review
+**6. Self review**
 - If I called your manager, what would they say about you?
 - What would your previous boss say your biggest strength was?
 - What is the most constructive feedback you've received recently? 
