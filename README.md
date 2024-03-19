@@ -3,6 +3,7 @@ This is a summary of the behavioral questions I've summarized. All real question
 
 
 Question bank
+
 1.Introduction
 - Please introduce yourself and your professional experience (2-3 mins answer reconmmended)
 
